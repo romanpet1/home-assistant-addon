@@ -21,7 +21,7 @@ map:
 init: false
 advanced: false
 stage: stable
-image: ghcr.io/music-assistant/server
+image: ghcr.io/romanpet1/mass-server
 tmpfs: true
 options:
   log_level: info
